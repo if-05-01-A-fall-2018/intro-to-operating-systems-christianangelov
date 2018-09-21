@@ -1,0 +1,36 @@
+VxWorks
+
+VxWorks is a real-time operating system(RTOS),
+witch was developed as Proprietary software by Wind River System.
+VxWorks is designed for use in embedded systems requiring real-time,
+deterministic performance, safety and security certification for different industries.
+
+Real time operating system
+
+Real-time operating system is intended to serve real-time applications that process data as it comes in,
+typically without buffer delays.
+
+Embedded systems
+
+An embedded system is a programmed controlling and operating system with a
+dedicated function within a larger mechanical or electrical system.
+
+Platform overview
+
+Supported architecture: Intel architecture, Power architecture, and ARM architectures.
+
+The RTOS can be used in multi-core asymmetric multiprocessing (AMP),
+symmetric multiprocessing (SMP),
+and mixed modes and multi-OS(via Type 1 hypervisor) designs on 32- and 64-bit processors.
+
+Uses
+
+VxWorks is used by products over a wide range of market areas: aerospace and defense, automotive,
+industrial such as robots, consumer electronics, medical area and networking.
+
+famouse products that use VxWorks
+
+Nasa's Curiosity Marsrover
+The ASIMO Robot
+AgustaWestland Project Zero
+The Mars Reconnaissance Orbiter
